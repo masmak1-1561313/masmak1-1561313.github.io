@@ -52,7 +52,9 @@ li{
 }
 
 #LeftNav u1{
-	
+	list-style-type: none;
+	padding-left: 0px;
+	padding-bottom: 8px;
 }
 
 #LeftNav h3{
@@ -94,7 +96,7 @@ a{
 	text-decoration: line-through; 
 }
 
-u1{
+#Footer u1{
 	list-style-type: none;
 	padding-left: 0px;
 }
