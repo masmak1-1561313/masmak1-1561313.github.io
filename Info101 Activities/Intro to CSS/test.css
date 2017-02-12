@@ -16,7 +16,7 @@ h3{
 }
 
 li{
-	list-style-type: none;
+
 }
 
 #Header{
@@ -51,11 +51,8 @@ li{
 	opacity: 0.5;
 }
 
-#LeftNav 
-u1{
-	list-style-type: none;
-	margin: 0;
-	padding: 0px;
+#LeftNav u1{
+	
 }
 
 #LeftNav h3{
@@ -95,4 +92,9 @@ a{
 	font-weight: bold;
 	font-size: 24px;
 	text-decoration: line-through; 
+}
+
+u1{
+	list-style-type: none;
+	padding-left: 0px;
 }
