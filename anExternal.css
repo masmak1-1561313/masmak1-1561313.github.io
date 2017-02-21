@@ -25,9 +25,10 @@ img {
 	float: right;
 }
 #rcorners {
-    border-radius: 50px 50px 50px 50px;
-    background: Black;
-    padding: 20px; 
-    width: 200px;
-    height: 150px; 
+    border-radius: 100px 100px 100px 100px;
+    background: Gold;
+    padding: 50px; 
+    width: 300px;
+    height: 300px; 
+    float: right;
 }
