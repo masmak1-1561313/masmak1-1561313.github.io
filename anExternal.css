@@ -1,0 +1,33 @@
+body {
+	color: dark blue;
+	background-color: purple;
+	font-family: times;
+	font-size: 100%;
+}
+h1 {
+	color: purple;
+	background-color: black;
+	border-style: dotted;
+	font-family: verdana;
+	font-size: 125%;
+}
+p {
+	color: purple;
+	background-color: black;
+	font-family: arial;
+	font-size:90%;
+}
+img {
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	float: right;
+}
+#rcorners {
+    border-radius: 50px 50px 50px 50px;
+    background: Black;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
